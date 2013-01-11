@@ -1,5 +1,5 @@
 module OmniAuth
   module Credport
-    VERSION = "1.1.1"
+    VERSION = "0.0.1"
   end
 end
